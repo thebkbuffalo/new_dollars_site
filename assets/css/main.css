@@ -1155,9 +1155,9 @@ input, select, textarea {
 			-webkit-transition: -webkit-transform 0.325s ease-in-out, -webkit-filter 0.325s ease-in-out;
 			-ms-transition: -ms-transform 0.325s ease-in-out, -ms-filter 0.325s ease-in-out;
 			transition: transform 0.325s ease-in-out, filter 0.325s ease-in-out;
-			background-image: url("../../images/eyeofaradio.png");
+			background-image: url("../../images/hint.png");
 			background-position: center;
-			background-size: cover;
+			background-size: 89%;
 			background-repeat: no-repeat;
 			z-index: 1;
 		}
@@ -1355,7 +1355,7 @@ input, select, textarea {
 
 				#header nav ul li a {
 					display: block;
-					min-width: 7.5rem;
+					min-width: 15.5rem;
 					height: 2.75rem;
 					line-height: 2.75rem;
 					padding: 0 1.25rem 0 1.45rem;
